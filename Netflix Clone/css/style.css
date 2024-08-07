@@ -223,9 +223,10 @@ ul li{
 }
 
 .carousel-item img{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 5px;
+    padding-bottom: 5%;
 }
 
 .togglebtn{
